@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=hOamcgGP73k
+https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
+https://stackoverflow.com/questions/69834335/loading-yolo-invalid-index-to-scalar-variable/69881065
