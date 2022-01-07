@@ -1,1 +1,1 @@
-worker: app.py
+web:gunicorn app:app --preload
