@@ -1,5 +1,5 @@
 opencv-python-headless
-gunicorn==20.1.0
+gunicorn
 bcrypt==3.1.7
 blinker==1.4
 certifi==2020.4.5.1
